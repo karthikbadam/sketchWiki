@@ -1,0 +1,17 @@
+
+sketchWiki - using Github
+
+Client
+[] HTML + JS for adding layers and sketching.
+[] Add text boxes
+[] Wrap data into a JSON container
+[] Upload Image
+
+Path viewer
+[] Get revision ids + meta data and pass it to D3
+[] A thumbnail viewer
+
+Server 
+[] Connect to Github API
+[] Get diff for each content in the JSON container
+[] Write them to the Github server
