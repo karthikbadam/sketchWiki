@@ -1,4 +1,4 @@
 sketchWiki
 ==========
 
-A javascript version of skWiki 
+A complete javascript version of [skWiki](https://github.com/karthikbadam/skWiki) 
